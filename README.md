@@ -12,12 +12,12 @@ Customizable admin panel framework made with :heart: by [Akveo team](http://akve
 ## Angular 2 version
 Here you can find Angular2 based version: [ng2-admin](https://github.com/akveo/ng2-admin).
 
-### Documentation
+### 文档
 Installation, customization and other useful articles: https://akveo.github.io/blur-admin/
 
 *If you have problems installing and just want to download JS and css files, you can find download links here*: http://akveo.github.io/blur-admin/articles/091-downloads/
 
-## How can I support developers?
+## 怎么支持该项目?
 - Star our GitHub repo
 - Create pull requests, submit bugs, suggest new features or documentation updates
 - Follow us on [Twitter](https://twitter.com/akveo_inc)
@@ -26,7 +26,7 @@ Installation, customization and other useful articles: https://akveo.github.io/b
 ## Can I hire you guys?
 Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simply leave us a note to contact@akveo.com. We will be happy to work with you!
 
-## Features
+## 用到的技术
 * Responsive layout
 * High resolution
 * Bootstrap CSS Framework
@@ -38,11 +38,11 @@ Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simpl
 * Maps (Google, Leaflet, amMap)
 * etc
 
-License
+证书
 -------------
 <a href=/LICENSE.txt target="_blank">MIT</a> license.
 
 ### From akveo
 
-Enjoy!
-We're always happy to hear your feedback.
+
+你有什么好的建议和想法，期待你的反馈.
